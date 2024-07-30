@@ -1,0 +1,21 @@
+{
+    "hub_config": {
+        "broadcast_code": "3GGDLAW001EV931",
+        "enable_connect": true,
+        "coordinate": 0
+    },
+    "lidar_config": [
+        {
+            "broadcast_code": "3GGDLAW001EV931",
+            "enable_fan": true,
+            "return_mode": 0,
+            "imu_rate": 1
+        },
+        {
+            "broadcast_code": "3GGDL7C001FW371",
+            "enable_fan": true,
+            "return_mode": 0,
+            "imu_rate": 1
+        }
+    ]
+}

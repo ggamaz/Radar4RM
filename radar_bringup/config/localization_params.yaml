@@ -1,0 +1,5 @@
+radar_localization_node:
+  ros__parameters:
+    T_camera_lidar: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+
+    
